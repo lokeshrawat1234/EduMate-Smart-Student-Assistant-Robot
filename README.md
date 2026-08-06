@@ -37,9 +37,7 @@ EduMate is an Arduino Uno based Smart Student Assistant Robot designed to improv
 
 ---
 
-## Circuit Diagram
 
-Add your circuit diagram here.
 
 ---
 
